@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Web Developer:  Html | Css | Bootstrap | VsCode | JavaSkript
 
 <!--
