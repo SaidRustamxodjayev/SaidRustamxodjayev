@@ -1,6 +1,6 @@
 ### Web Developer:  Html | Css | Bootstrap | VsCode | JavaSkript 
 
-### Front End developter, knowing: Html, Css, JavaScript, Bootstrap. From the Back end of the developer I know such languages as: C / c++, Python. I love watching anime, playing games and read books.  
+### Front End developter, knowing: Html, Css, JavaScript, Bootstrap. From the Back End of the developer I know such languages as: C / c++, Python. I love watching anime, playing games and read books.  
 
 <!--
 **SaidRustamxodjayev/SaidRustamxodjayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
